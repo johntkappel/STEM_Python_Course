@@ -123,3 +123,5 @@ dmypy.json
 .pyre/
 
 *~
+Day_3/ExtraExamples/Day_3_Workshop.ipynb
+Day_3/ExtraExamples/.ipynb
